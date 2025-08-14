@@ -28,9 +28,9 @@ exit
 
 Screenshot
 ### 1. Netdata dashboard1
-![Netdata dashboard1](Screenshot1-dashboard1.png)
+![Netdata dashboard1](Screenshot-dashboard1.png)
 ### 1. Netdata dashboard2
-![Netdata dashboard2](Screenshot1-dashboard2.png)
+![Netdata dashboard2](Screenshot-dashboard2.png)
 
 
 
